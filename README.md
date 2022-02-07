@@ -1,5 +1,5 @@
 # Math-Modeling-final-project
-#The purpose of this article is to (1) show that the average strokes in one rally in a table tennis
+The purpose of this article is to (1) show that the average strokes in one rally in a table tennis
 match are around 4 to 5, (2) utilize the average 4 strokes in one rally to simulate 1000 rallies
 random walk to observe the most frequent game action used by the top 50 male table tennis
 players in the world.
